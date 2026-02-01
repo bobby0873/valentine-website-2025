@@ -187,7 +187,7 @@ Want to make it extra special with your own romantic song? Follow these steps to
 music: {
     enabled: true,
     autoplay: true,
-    musicUrl: "YOUR_CLOUDINARY_URL_HERE", // Paste your URL here
+    musicUrl: https://res.cloudinary.com/dkrfwinyy/video/upload/v1769917326/Arijit_Singh_-_Channa_Mereya_lyrics_Ae_Dil_Hai_Mushkil_q50oxl.mp3 , // Paste your URL here
     startText: "🎵 Play Music",
     stopText: "🔇 Stop Music",
     volume: 0.5
